@@ -1,0 +1,28 @@
+Goal is to predict the number of passengers who will visit the airport in future years
+
+What is Time Series:
+Data that is collected over time and is dependent on it
+eg. Stock Price, number of visitors, sales data, etc.
+ Importance of timeseries analysis and forecasting:
+ Problem statement - if you want any investment to be made in an organization, 
+ say, EV's, we will be looking for:
+ Sales, Previous revenue in the organization, financial projections
+consumption of EV's in next 5-10 yrs - Demand
+how demands will be coming in - look at past 5 yrs of products sold
+From this, forecast what the demand will be in the next 10 yrs.
+if profitble, I will make investment
+THis scenario - anayze past data observations and predict future values
+thru time series forecasting
+
+Use passenger Dataset to forecast the number of passengers for the upcoming years
+
+For Pandemic COVID-19, the time series forecasting was used to predict.
+Casualty, Active Cases, Number recovered.
+
+Industry applications:
+Business, Fnnance, Supply chain Manageent, production, Inventory management
+
+Time Series has 2 components - Analysis and Forecasting
+
+Time Series Analysis - will be statistics part
+Time Series FOrecasting - will be ML part
